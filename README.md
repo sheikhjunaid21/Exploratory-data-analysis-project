@@ -16,7 +16,10 @@ Welcome to the Diwali Sales EDA project! This project delves into the analysis o
 *Actionable Insights: Present findings that businesses can use to enhance their Diwali sales strategies.
 
 #Getting Started
-1.Clone the repository: git clone https://github.com/yourusername/diwali-sales-eda.git
+1.Clone the repository: git clone https://github.com/sheikhjunaid21/Exploratory-data-analysis-project
 2.Install dependencies: pip install -r requirements.txt
 3.Run the Jupyter Notebook: jupyter notebook
+
+#Analysis and Visualizations
+
 
