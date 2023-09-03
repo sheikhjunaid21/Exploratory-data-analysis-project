@@ -21,12 +21,16 @@ Welcome to the Diwali Sales EDA project! This project delves into the analysis o
 3.Run the Jupyter Notebook: jupyter notebook
 
 #Data Sources
-We sourced the Diwali sales data from , which provides comprehensive data on sales transactions during the Diwali festival season. The dataset includes information such as sales figures, dates, products, and customer demographics.
+We sourced the Diwali sales data from https://github.com/sheikhjunaid21/Exploratory-data-analysis-project/blob/main/Diwali%20Sales%20Data.csv , which provides comprehensive data on sales transactions during the Diwali festival season. The dataset includes information such as sales figures, dates, products, and customer demographics.
 
 
 #Analysis and Visualizations
 1.total number of orders from top 10 states-https://github.com/sheikhjunaid21/Exploratory-data-analysis-project/blob/main/download%20(1).png
 2.top 10 most sold products -https://github.com/sheikhjunaid21/Exploratory-data-analysis-project/blob/main/download%20(2).png
+
+#Contact
+If you have any questions or suggestions, feel free to reach out to sheikhjunaid99b@gmail.com    
+
 
 
 
